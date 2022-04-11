@@ -30,5 +30,5 @@
   <a href="https://www.behance.net/beatrizarajo15" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a> 
  
   ![Snake animation](https://github.com/beatrizaraujo1/beatrizaraujo1/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
