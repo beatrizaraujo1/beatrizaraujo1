@@ -31,4 +31,5 @@
  
   ![Snake animation](https://github.com/beatrizaraujo1/beatrizaraujo1/blob/output/github-contribution-grid-snake.svg)
   
+  <img align="center" height="15em" src="https://gpvc.arturio.dev/beatrizaraujo1"/>
 </div>
