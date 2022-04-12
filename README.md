@@ -31,6 +31,6 @@
  
   ![Snake animation](https://github.com/beatrizaraujo1/beatrizaraujo1/blob/output/github-contribution-grid-snake.svg)
   
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/351148" target="_blank"><img width="120" src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png"></a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/351148" target="_blank"><img align="center" width="120" src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png"></a>
   
 </div>
