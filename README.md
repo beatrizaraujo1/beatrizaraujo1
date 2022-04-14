@@ -36,8 +36,12 @@
 </div>
   
 </br></br>
-<div>
+<div align="center">
   <a href="https://github.com/beatrizaraujo1/theHuxley-python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-python&theme=radical&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/beatrizaraujo1/theHuxley-C">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-C&theme=radical&show_icons=true"/>
   </a>
 </div>
