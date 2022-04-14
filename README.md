@@ -36,5 +36,6 @@
 </div>
   
 <div>
+  <a href="https://github.com/beatrizaraujo1/theHuxley-python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-python&theme=radical"/>
 </div>
