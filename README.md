@@ -41,15 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-python&theme=radical&show_icons=true"/>
   </a>
   
-  <a href="https://github.com/beatrizaraujo1/theHuxley-C">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-C&theme=radical&show_icons=true"/>
-  </a>
-  
   <a href="https://github.com/beatrizaraujo1/Web-Scrapping">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=Web-Scrapping&theme=radical&show_icons=true"/>
   </a>
   
-  <a href="https://github.com/beatrizaraujo1/django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=django&theme=radical&show_icons=true"/>
-  </a>
 </div>
