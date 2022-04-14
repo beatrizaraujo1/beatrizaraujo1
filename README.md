@@ -34,3 +34,7 @@
   <a href="https://www.beecrowd.com.br/judge/pt/profile/351148" target="_blank"><img align="center" width="120" src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png"></a>
   
 </div>
+  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-python&theme=radical"/>
+</div>
