@@ -41,8 +41,16 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-python&theme=radical&show_icons=true"/>
   </a>
   
-  <a href="https://github.com/beatrizaraujo1/Web-Scrapping">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=Web-Scrapping&theme=radical&show_icons=true"/>
+  <a href="https://github.com/beatrizaraujo1/theHuxley-C">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-C&theme=radical&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/beatrizaraujo1/Projeto-de-Sistema-Digitais">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=Projeto-de-Sistema-Digitais&theme=radical&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/beatrizaraujo1/Verificacao-Funcional">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=Verificacao-Funcional&theme=radical&show_icons=true"/>
   </a>
   
 </div>
