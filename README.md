@@ -44,5 +44,4 @@
   <a href="https://github.com/beatrizaraujo1/theHuxley-C">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizaraujo1&repo=theHuxley-C&theme=radical&show_icons=true"/>
   </a>
-  
 </div>
